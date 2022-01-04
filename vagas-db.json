@@ -1,0 +1,20 @@
+{
+  "vagas": [
+    {
+      "id": "2",
+      "nome": "Felipe Santos de jesus",
+      "foto": "foto2.jpg",
+      "descricao": "dsfdsfsd",
+      "data": "2022-01-11",
+      "salario": "2222"
+    },
+    {
+      "id": "1",
+      "nome": "Jose",
+      "foto": "foto2.jpg",
+      "descricao": "teste",
+      "data": "2022-01-14",
+      "salario": "3000"
+    }
+  ]
+}
